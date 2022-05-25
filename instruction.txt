@@ -1,0 +1,9 @@
+1. Open the SSH terminal on your machine and run the following command: ssh your_username@host_ip_address 
+
+If the username on your local machine matches the one on the server you are trying to connect to, you can just type: ssh host_ip_address And hit Enter.
+
+2. Type in your password and hit Enter. Note that you will not get any feedback on the screen while typing. If you are pasting your password, make sure it is stored safely and not in a text file.
+
+3. When you are connecting to a server for the very first time, it will ask you if you want to continue connecting. Just type yes and hit Enter. This message appears only this time since the remote server is not identified on your local machine.
+
+4. An ECDSA key fingerprint is now added and you are connected to the remote server.
